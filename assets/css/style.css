@@ -46,7 +46,7 @@ section {
   letter-spacing: 1px;
   font-weight: 700;
   margin: 0;
-  color: #4154f1;
+  color: #466dec;
   text-transform: uppercase;
 }
 
@@ -187,7 +187,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #2277e6;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -524,7 +524,7 @@ section {
 
 .carousel-item {
   height: 52rem;
-  background: #777;
+  background: rgb(94, 173, 238);
   color: white;
   position: relative;
   transition: -webkit-transform 3s ease;
@@ -541,8 +541,8 @@ section {
   width: 100%;
   top: 0;
   left: 0;
-  min-height: 572px;
-  background: rgba(0, 0, 0, 0.7);
+  min-height: 672px;
+  background: rgba(23, 162, 241, 0.932);
 }
 
 .container-slideshow {
@@ -568,12 +568,12 @@ section {
 }
 
 .tokenomics-content2 {
-  color: #163614;
+  color: #00013d;
   font-weight: 800;
 }
 
 .tokenomics-content3 {
-  color: rgb(63, 59, 59);
+  color: rgb(0, 22, 95);
   font-weight: 800;
 }
 
@@ -588,14 +588,14 @@ section {
 .about h3 {
   font-size: 14px;
   font-weight: 700;
-  color: #4154f1;
+  color: #5eb7f3;
   text-transform: uppercase;
 }
 
 .about h2 {
   font-size: 24px;
   font-weight: 700;
-  color: #012970;
+  color: #73a4f7;
 }
 
 .about p {
@@ -609,7 +609,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #4154f1;
+  background: #689ef0;
   box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
 }
 
@@ -711,7 +711,7 @@ section {
 
 .features .feature-box h3 {
   font-size: 18px;
-  color: #012970;
+  color: #0863b8;
   font-weight: 700;
   margin: 0;
 }
@@ -727,7 +727,7 @@ section {
 }
 
 .features .feature-box:hover i {
-  background: #4154f1;
+  background: #6cc3f5;
   color: #fff;
 }
 
@@ -736,7 +736,7 @@ section {
 }
 
 .features .feture-tabs h3 {
-  color: #012970;
+  color: #55c2e4;
   font-weight: 700;
   font-size: 32px;
   margin-bottom: 10px;
@@ -757,7 +757,7 @@ section {
   text-transform: uppercase;
   font-size: 15px;
   font-weight: 600;
-  color: #012970;
+  color: #80cff3;
   padding: 12px 0;
   margin-right: 25px;
   margin-bottom: -2px;
@@ -766,14 +766,14 @@ section {
 
 .features .feture-tabs .nav-link.active {
   color: #4154f1;
-  border-bottom: 3px solid #4154f1;
+  border-bottom: 3px solid #58b0f8;
 }
 
 .features .feture-tabs .tab-content h4 {
   font-size: 18px;
   margin: 0;
   font-weight: 700;
-  color: #012970;
+  color: #68c3ec;
 }
 
 .features .feture-tabs .tab-content i {
