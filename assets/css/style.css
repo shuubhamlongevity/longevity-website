@@ -513,6 +513,25 @@ section {
 # Tokenomics
 --------------------------------------------------------------*/
 
+#supply {
+  font-size: 1.25rem;
+}
+
+#launch-para {
+  font-weight: 700;
+  color: #1b0d5c;
+}
+
+#launch-pool {
+  font-weight: 700;
+  color: #051f1b;
+}
+
+#chartdiv {
+  width: 100%;
+  height: 300px;
+}
+
 #Tokenomics-header {
   display: flex;
   justify-content: center;
@@ -523,7 +542,7 @@ section {
 }
 
 .carousel-item {
-  height: 52rem;
+  height: 32rem;
   background: rgb(94, 173, 238);
   color: white;
   position: relative;
@@ -541,8 +560,6 @@ section {
   width: 100%;
   top: 0;
   left: 0;
-  min-height: 672px;
-  background: rgba(23, 162, 241, 0.932);
 }
 
 .container-slideshow {
@@ -550,7 +567,6 @@ section {
   bottom: 0;
   left: 0;
   right: 0;
-  padding-bottom: 50px;
   padding-left: 15rem;
   font-weight: 600;
 }
@@ -576,6 +592,7 @@ section {
   color: rgb(0, 22, 95);
   font-weight: 800;
 }
+
 
 /*--------------------------------------------------------------
 # About
