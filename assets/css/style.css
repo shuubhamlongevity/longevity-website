@@ -238,16 +238,16 @@ section {
 }
 
 .navbar .getstarted {
-  background: #4154f1;
+  background: #ffffff;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
-  color: #fff;
+  color: rgb(5, 0, 32);
 }
 
 .navbar .getstarted:hover {
-  color: #fff;
-  background: #5969f3;
+  color: rgb(255, 255, 255);
+  background: #80b4f0;
 }
 
 .navbar .dropdown ul {
